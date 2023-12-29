@@ -1,5 +1,8 @@
 # Data analyst
 
 ### Education
-### Work experience
-### Projetcs
+- Bachelors Degree in Economics and Finance
+### Certifications
+- SQL Fundamentals
+### Projects
+
